@@ -1,0 +1,25 @@
+@media only screen and  (max-width: 480px) {
+
+nav .logo{
+    position: relative;
+    right: 140px;
+
+}
+nav .links {
+    flex-direction: column;
+    text-align: center;
+
+}
+nav .links a {
+    border-bottom: 2px solid gray;
+    width: 90vh;
+    padding-bottom: 0.5;
+}
+nav .btns {
+    margin-top: 15rem;
+}
+  -menu-bar {
+    display: block;
+  }
+
+}
